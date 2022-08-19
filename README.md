@@ -3,6 +3,6 @@ This is a Diabetics prediction project using Supervised Machine Learning.
 
 Creating the model using dataset provided in csv format.
 
-Trained model file is used for the redictions in Streamlit module.
+Trained model file is used for the Predictions in Streamlit module.
 
 predicting using the features
